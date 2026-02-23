@@ -8,7 +8,7 @@ export default function Home() {
       <header className="bg-white border-b border-gray-200 shadow-sm">
         <div className="max-w-5xl mx-auto px-8 py-4 flex items-center gap-6">
           <img
-            src="https://www.hueystockstill.com/theme/assets/og-image.jpg"
+            src="/logo.jpg"
             alt="Huey P. Stockstill LLC"
             className="h-14 w-auto object-contain"
           />
