@@ -8,12 +8,12 @@ export interface App {
 const apps: App[] = [
   {
     name: "Truck Ticket Automation",
-    description: "Upload, parse, and manage haul tickets with AI-assisted data extraction.",
+    description: "Upload, parse, and manage haul tickets with automated data extraction.",
     url: "https://tickets.hueystockstill.xyz",
   },
   {
     name: "ChatDOT",
-    description: "AI-powered chat with company deep dives, competitor insights, and market intelligence.",
+    description: "AI-powered chat with competitor insights and market intelligence.",
     url: "https://chat.hueystockstill.xyz",
   },
 ];
